@@ -29,4 +29,4 @@ External Links Disclaimer:
 The owner of this Github repository may contain links to external websites that are not provided nor 
 maintained by or in any way affiliated by the repository owner nor Github.
 The repository owner does not guarantee the accuracy, adequacy, relevance, validity, reliability, 
-availability, free of virus, harmful components, timeliness or completeness of any information on these external websites.
+availability, free of virus or harmful components, timeliness or completeness of any information on these external websites.
