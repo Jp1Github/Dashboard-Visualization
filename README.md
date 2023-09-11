@@ -6,6 +6,7 @@ Repository for my dashboard and visualization using either Tableau, Microsoft Po
 [Executive Report](https://public.tableau.com/app/profile/john.paolo.narvaez/viz/John_Narvaez_Airline_Flight_Executive_Report/ExecutiveStory)
 
 Disclaimer:
+
 Some of the information in this are fictional and the repository owner could not fully guarantee the 
 accuracy or validity.
 The data are all open source and can be found in website, schools or other open source information.
@@ -23,7 +24,8 @@ The repository owner reserve the right to make additions, deletions, or modifica
 this repository at any time without prior notice.
 
 
-External Links Disclaimer
+External Links Disclaimer:
+
 The owner of this Github repository may contain links to external websites that are not provided nor 
 maintained by or in any way affiliated by the repository owner nor Github.
 The repository owner does not guarantee the accuracy, adequacy, relevance, validity, reliability, 
