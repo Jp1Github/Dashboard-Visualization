@@ -1,9 +1,11 @@
 # Dashboard-Visualization
 Repository for my dashboard and visualization using either Tableau, Microsoft Power BI and others.
 
+Tableau:
 [Executive Dashboard](https://public.tableau.com/app/profile/john.paolo.narvaez/viz/John_Narvaez_Airline_Flight_Executive_Dashboard/ExecutiveDashboard)
 
 [Executive Report](https://public.tableau.com/app/profile/john.paolo.narvaez/viz/John_Narvaez_Airline_Flight_Executive_Report/ExecutiveStory)
+
 
 Disclaimer:
 
